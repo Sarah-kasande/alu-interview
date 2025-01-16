@@ -2,6 +2,7 @@
 """Minimum Operations"""
 import math
 
+
 def minOperations(n):
     """Minimum Operations"""
     if n <= 1:
